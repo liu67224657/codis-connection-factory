@@ -1,4 +1,4 @@
-package com.ericliu.codis.configure;
+package com.ericliu.codis;
 
 import io.codis.jodis.JedisResourcePool;
 import io.codis.jodis.RoundRobinJedisPool;
